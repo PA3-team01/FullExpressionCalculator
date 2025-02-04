@@ -1,4 +1,4 @@
-![activityDiagram](UML/flowchart_arithmetic_operations)
+![activityDiagram](UML/flowchart_arithmetic_operations.png)
 
 
 
